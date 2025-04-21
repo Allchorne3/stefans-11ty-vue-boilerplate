@@ -1,4 +1,4 @@
-# Stefan's 11ty + Laravel Mix boilerplate
+# Stefan's 11ty + Vue 3 boilerplate
 
 This starter project uses the following tech stack:
 
