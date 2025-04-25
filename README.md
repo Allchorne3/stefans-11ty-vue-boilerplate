@@ -1,4 +1,4 @@
-# Stefan's 11ty + Laravel Mix boilerplate
+# Stefan's 11ty + Vue 3 boilerplate
 
 This starter project uses the following tech stack:
 
@@ -6,12 +6,14 @@ This starter project uses the following tech stack:
 2. Laravel Mix - For handling assets, such as JS, CSS and images
 3. Nunjucks - The template engine
 4. SCSS
+5. Vue 3
 
 ---
 ### Pre installed dependencies
 
 - Font Awesome _(Free)_
 - Moment
+- Fuse.js (Used for fuzzy search in the example Vue component)
 ---
 
 ### How to get started
