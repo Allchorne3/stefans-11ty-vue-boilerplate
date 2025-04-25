@@ -1,7 +1,7 @@
 const moment = require("moment") // For date formatting
 
 import { createApp } from 'vue';
-import ExampleComponent from './components/ExampleComponent.vue';
+import GamesList from './components/GamesList.vue';
 
 document.addEventListener('DOMContentLoaded', () => {
 	// Get the current yeaer
@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	createApp({
 	  components: {
-		ExampleComponent
+		GamesList
 	  }
 	}).mount('#app');
 })
